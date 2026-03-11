@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alif</groupId>
-	<artifactId>produk</artifactId>
+	<artifactId>proalifaduk</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>produk</name>
-	<description>Produk</description>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
